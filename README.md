@@ -41,6 +41,8 @@ Esta arquitectura busca mejorar la descentralización, accesibilidad y resilienc
 
 >AYANSI HUISA, Antony Elio; HUILLCA PEREZ, Fabricio; VILLA ANDIA, Alexander. Diseño e implementación de un sistema de pagos móviles offline mediante arquitectura descentralizada P2P con NFC y Bluetooth en la ciudad de Cusco. Cusco, 2025. Tesis (Ingeniería de Sistemas) — Universidad Continental.
 
+Ingeniero Americo Estrada- Asesor
+
 ---
 
 ## Licencia
